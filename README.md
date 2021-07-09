@@ -1,11 +1,5 @@
-# CO2emission_Climate_Change
 # Machine Learning Foundations:Supervised Machine Learning: Regression course
 ## Part of IBM Machine Learning certificate
-
-
-
-
-
 
 ## Project title: 
 'How does the vehicle’s engine size influence CO2 emissions?' - By Zahra Adahman, BSc/MBS.
