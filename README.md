@@ -25,12 +25,16 @@ The data fuelcomsumption.csv was used for the study were gotten from a previous 
 
 ## Visualization 
 
-1. 
+![image](https://user-images.githubusercontent.com/59964869/140084263-6d8708b6-f4fc-4c71-bc65-0402617d7c3b.png)
+
+![image](https://user-images.githubusercontent.com/59964869/140084332-95bdf705-eab2-4d53-84eb-56dcfba868e7.png)
+
+![image](https://user-images.githubusercontent.com/59964869/140084158-aac4372d-1ab8-4411-9675-63d76f292512.png)
+
+
 ## Conclusion
 These results do show a positive linear relationship between of engine size to the CO2 emissions. The R2 score of the linear regression was 0.76 showing that there is a positive correlation between the two variables. The Cross-validation analysis show that an alpha of 101 is just as good as 109. Lasso and Ridge analysis was done. The R2 score was for Lasso regression was 0.70 and ridge regression 0.70.
      There is no significant difference in the lasso and ridge regression analysis. Either analysis will be good to build the model. The larger engine size correlated with more the CO2 emissions.
 Next Steps: The dataset is not very large and the data set was from a previous course. It would be best to test this model on a more diverse dataset. 
 Reducing CO2 emissions is not only from controlling fossil-fuels burning vehicles. Hence, tackling the release of CO2 and other greenhouse gases is not only from using a model for this variables. Other factors are important to consider as it is a multifaceted issue leading to climate change.
-
-### Certificate awarded July 1st, 2021.
 
