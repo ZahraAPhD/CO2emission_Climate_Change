@@ -1,8 +1,8 @@
-# Machine Learning Foundations:Supervised Machine Learning: Regression course
-## Part of IBM Machine Learning certificate
 
-## Project title: 
-'How does the vehicle’s engine size influence CO2 emissions?' - By Zahra Adahman, BSc/MBS.
+## Project title: 'How does the vehicle’s engine size influence CO2 emissions
+## Machine Learning Foundations:Supervised Machine Learning: Regression course
+## Part of IBM Machine Learning certificate
+ By Zahra Adahman, BSc/MBS.
 #### June 30th, 2021.
 
 ## Background and Problem
